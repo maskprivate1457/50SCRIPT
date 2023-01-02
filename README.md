@@ -11,4 +11,4 @@ Script Ini Berisi 50 SCRIPT
 
 5.cd 50SCRIPT
 
-6.sh 50SCRIPT.sh
+6.sh 50.sh
